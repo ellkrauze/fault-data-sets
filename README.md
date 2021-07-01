@@ -1,5 +1,5 @@
 # Condition Based Maintenance Fault Database for Testing of Diagnostic and Prognostics Algorithms
-Data Assembled and Prepared on behalf of South Ural State University
+Data assembled and prepared on behalf of [South Ural State University](https://www.susu.ru/en).
 
 ## Bearing Fault Dataset
 A bearing fault dataset has been provided to facilitate research into bearing analysis. The dataset comprises data from a bearing test rig.
