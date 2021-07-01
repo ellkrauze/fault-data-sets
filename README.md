@@ -17,3 +17,6 @@ The data set comprises the following
 ![](https://github.com/ellkrauze/fault-data-sets/blob/main/bearing_picture.jpg?raw=true)
 
 *Test bearings with inner race fault (left) and ball fault (right)*
+
+
+**Note:** The data is stored in a [Matlab](https://www.mathworks.com/products/matlab.html) double-precision, binary format *.mat file. The data structure holds vectors of linear and angular acceleration data.
